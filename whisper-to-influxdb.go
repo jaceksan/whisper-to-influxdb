@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/influxdata/influxdb/client"
+	"github.com/jaceksan/influxdb/client"
 	"github.com/kisielk/whisper-go/whisper"
 	"github.com/rcrowley/go-metrics"
 	"log"
